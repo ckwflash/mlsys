@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a363b918502c2177",
+        "id": "87bce00f2a4f44cb",
         "type": "tabs",
         "children": [
           {
-            "id": "087be80432493332",
+            "id": "0e8cb89d54b0e795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "chapters/00-introduction.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "00-introduction"
@@ -41,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,18 +195,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "80cb505350aee2a7",
+  "active": "0e8cb89d54b0e795",
   "lastOpenFiles": [
-    "img",
-    "img/Pasted image 20260914143627.png",
-    "img/Pasted image 20260907174519.png",
-    "chapters/00-introduction.md",
-    "chapter-template.md",
     "README.md",
+    "chapters/01-ml-systems.md",
+    "chapters/00-introduction.md",
+    "experiments/README.md",
+    "img/Pasted image 20260921114853.png",
+    "img/Pasted image 20260914143627.png",
+    "img",
+    "img/Pasted image 20260907174519.png",
+    "chapter-template.md",
     "2026-09-07.md",
     "Untitled.canvas",
     "Untitled.base",
-    "chapters/02-ml-workflow.md",
-    "chapters/01-ml-systems.md"
+    "chapters/02-ml-workflow.md"
   ]
 }

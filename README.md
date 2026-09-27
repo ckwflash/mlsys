@@ -10,7 +10,7 @@ Change `[ ]` to `[x]` as you finish a section. Update the count when it is usefu
 
 ### Introduction
 
-- [ ] [Introduction](chapters/00-introduction.md) · [read online](https://mlsysbook.ai/vol1/introduction/introduction.html)
+- [x] [Introduction](chapters/00-introduction.md) · [read online](https://mlsysbook.ai/vol1/introduction/introduction.html)
 
 ### Part I — Foundations
 
