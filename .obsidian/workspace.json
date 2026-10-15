@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/00-introduction.md",
+                "file": "chapters/01-ml-systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-introduction"
+              "title": "01-ml-systems"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "0e8cb89d54b0e795",
   "lastOpenFiles": [
-    "README.md",
-    "chapters/01-ml-systems.md",
     "chapters/00-introduction.md",
+    "chapters/01-ml-systems.md",
+    "README.md",
     "experiments/README.md",
     "img/Pasted image 20260921114853.png",
     "img/Pasted image 20260914143627.png",
